@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="ganesa" default="all" basedir=".">
+
+  <property name="target.dir" value="target"/>
+  <property name="dist.dir" value="target/ganesa"/>
+  <property name="scala.version" value="2.11"/>
+
+  <condition property="sbt.exec" value="sbt.bat" else="sbt">
+    <os family="windows" />
+  </condition>
+
+  <target name="clean">
+    <delete dir="${dist.dir}"/>
+  </target>
+
+  <target name="jar" depends="clean">
+    <exec executable="${sbt.exec}" resolveexecutable="true" failonerror="true">
+      <arg line="clean assembly" />
+    </exec>
+  </target>
+
+  <target name="package" depends="jar">
+    <mkdir dir="${dist.dir}"/>
+    <move file="${target.dir}/scala-${scala.version}/ganesa.jar"
+            tofile="${dist.dir}/lib/ganesa.jar"/>
+    <copy todir="${dist.dir}">
+        <fileset dir="bin"/>
+    </copy>
+  </target>
+  <target name="all" depends="package" />
+</project>

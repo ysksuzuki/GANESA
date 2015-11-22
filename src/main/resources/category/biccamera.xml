@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root title="ビックカメラ" id="000">
+    <category id="001210" title="ゲーム" sortOrder="" amazonCategory="VideoGames" >
+        <category id="001210010" title="ゲーム機本体" sortOrder="" amazonCategory="VideoGames" >
+        </category>
+        <category id="001210005" title="ゲームソフト" sortOrder="" amazonCategory="VideoGames" >
+            <category id="001210005" criteria="spec_573021_101=010‘ニンテンドーDS" title="ニンテンドーDS" sortOrder="" amazonCategory="VideoGames" />
+            <category id="001210005" criteria="spec_573021_101=011‘Newニンテンドー3DS専用" title="Newニンテンドー3DS専用" sortOrder="" amazonCategory="VideoGames" />
+            <category id="001210005" criteria="spec_573021_101=011‘ニンテンドー3DS" title="ニンテンドー3DS" sortOrder="" amazonCategory="VideoGames" />
+            <category id="001210005" criteria="spec_573021_101=020‘PSP" title="PSP" sortOrder="" amazonCategory="VideoGames" />
+            <category id="001210005" criteria="spec_573021_101=021‘PSVita" title="PSVita" sortOrder="" amazonCategory="VideoGames" />
+            <category id="001210005" criteria="spec_573021_101=028‘Wii U" title="Wii U" sortOrder="" amazonCategory="VideoGames" />
+            <category id="001210005" criteria="spec_573021_101=030‘Wii" title="Wii" sortOrder="" amazonCategory="VideoGames" />
+            <category id="001210005" criteria="spec_573021_101=033‘PS4" title="PS4" sortOrder="" amazonCategory="VideoGames" />
+            <category id="001210005" criteria="spec_573021_101=033%81%65XboxOne" title="XboxOne" sortOrder="" amazonCategory="VideoGames" />
+            <category id="001210005" criteria="spec_573021_101=035%81%65PS3" title="PS3" sortOrder="" amazonCategory="VideoGames" />
+            <category id="001210005" criteria="spec_573021_101=040‘Xbox360" title="Xbox360" sortOrder="" amazonCategory="VideoGames" />
+        </category>
+        <category id="001210015" title="ゲーム周辺機器" sortOrder="" amazonCategory="VideoGames" >
+        </category>
+    </category>
+    <category id="001200" title="映画・音楽" sortOrder="" amazonCategory="Music" >
+        <category id="001200005" title="ブルーレイソフト" sortOrder="" amazonCategory="DVD" />
+        <category id="001200010" title="DVD" sortOrder="" amazonCategory="DVD" />
+        <category id="001200015" title="CD" sortOrder="" amazonCategory="Music" />
+    </category>
+    <category id="001220" title="おもちゃ・ホビー" sortOrder="" amazonCategory="Toys" >
+        <category id="001220005" title="男の子おもちゃ" sortOrder="" amazonCategory="Toys" />
+        <category id="001220010" title="女の子おもちゃ" sortOrder="" amazonCategory="Toys" />
+        <category id="001220015" title="知育玩具・ベビーカー・チャイルドシート" sortOrder="" amazonCategory="Toys" />
+        <category id="001220020" title="フィギュア・キャラクター・ラジコン" sortOrder="" amazonCategory="Toys" />
+        <category id="001220025" title="ブロック" sortOrder="" amazonCategory="Toys" />
+        <category id="001220030" title="ゲーム・バラエティグッズ・パズル" sortOrder="" amazonCategory="Toys" />
+        <category id="001220035" title="プラモデル・ミニ四駆" sortOrder="" amazonCategory="Toys" />
+        <category id="001220040" title="プラモデル製作用アイテム" sortOrder="" amazonCategory="Toys" />
+        <category id="001220045" title="鉄道模型・ジオラマコレクション" sortOrder="" amazonCategory="Toys" />
+    </category>
+</root>

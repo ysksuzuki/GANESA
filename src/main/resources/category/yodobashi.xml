@@ -1,0 +1,677 @@
+<root title="ヨドバシ" id="000">
+    <category id="19531_500000000000000201" title="パソコン" sortOrder="" amazonCategory="PCHardware" >
+        <category id="19532_500000000000000201" title="パソコン周辺機器" sortOrder="" amazonCategory="PCHardware" >
+            <category id="19545_500000000000000201" title="記憶装置-HDD-フラッシュメモリ" sortOrder="" amazonCategory="PCHardware" />
+            <category id="19550_500000000000000201" title="マウス-キーボード" sortOrder="" amazonCategory="PCHardware" />
+            <category id="19555_500000000000000201" title="パソコン周辺機器-TV-ワンセグチューナー" sortOrder="" amazonCategory="PCHardware" />
+            <category id="19552_500000000000000201" title="パソコン周辺機器-ゲームパッド-ジョイスティック" sortOrder="" amazonCategory="PCHardware" />
+        </category>
+    </category>
+    <category id="141001_000000000000001001" title="ベビー・おもちゃ・ホビー" sortOrder="" amazonCategory="Baby" >
+        <category id="141651_000000000000001001" title="ホビー" sortOrder="" amazonCategory="Toys" >
+            <category id="141671_000000000000001001" title="プラモデル・模型" sortOrder="" amazonCategory="Toys" >
+                <category id="148240_000000000000001001" title="ガンダムプラモデル-ガンプラ" sortOrder="" amazonCategory="Toys" />
+                <category id="141674_000000000000001001" title="戦闘機-飛行機-ヘリコプター" sortOrder="" amazonCategory="Toys" />
+                <category id="141679_000000000000001001" title="戦車・軍用車両・大砲・兵士" sortOrder="" amazonCategory="Toys" />
+                <category id="141675_000000000000001001" title="軍艦-潜水艦-船舶" sortOrder="" amazonCategory="Toys" />
+                <category id="141677_000000000000001001" title="乗用車-レースカー-トラック" sortOrder="" amazonCategory="Toys" />
+                <category id="141672_000000000000001001" title="ミニ四駆" sortOrder="" amazonCategory="Toys" />
+                <category id="141684_000000000000001001" title="プラモデル用パーツ・アクセサリ" sortOrder="" amazonCategory="Toys" />
+                <category id="141673_000000000000001001" title="ミニ四駆用パーツ・アクセサリ" sortOrder="" amazonCategory="Toys" />
+                <category id="141681_000000000000001001" title="ロボット" sortOrder="" amazonCategory="Toys" />
+                <category id="141680_000000000000001001" title="オートバイ" sortOrder="" amazonCategory="Toys" />
+                <category id="148250_000000000000001001" title="キャラクター" sortOrder="" amazonCategory="Toys" />
+                <category id="141682_000000000000001001" title="ロケット・宇宙船" sortOrder="" amazonCategory="Toys" />
+                <category id="141683_000000000000001001" title="機関車・鉄道" sortOrder="" amazonCategory="Toys" />
+                <category id="141676_000000000000001001" title="城・建物・情景" sortOrder="" amazonCategory="Toys" />
+                <category id="141678_000000000000001001" title="人・動物" sortOrder="" amazonCategory="Toys" />
+                <category id="141686_000000000000001001" title="伝統・文化" sortOrder="" amazonCategory="Toys" />
+                <category id="141685_000000000000001001" title="プラモデルカタログ" sortOrder="" amazonCategory="Toys" />
+            </category>
+            <category id="141652_000000000000001001" title="フィギュア・コレクタードール" sortOrder="" amazonCategory="Toys" >
+                <category id="141654_000000000000001001" title="女性キャラクター" sortOrder="" amazonCategory="Toys" />
+                <category id="141655_000000000000001001" title="ロボット・メカ" sortOrder="" amazonCategory="Toys" />
+                <category id="141660_000000000000001001" title="ディスプレイケース・ベース" sortOrder="" amazonCategory="Toys" />
+                <category id="141653_000000000000001001" title="男性キャラクター" sortOrder="" amazonCategory="Toys" />
+                <category id="141657_000000000000001001" title="恐竜・ファンタジー" sortOrder="" amazonCategory="Toys" />
+                <category id="141656_000000000000001001" title="動物" sortOrder="" amazonCategory="Toys" />
+                <category id="141659_000000000000001001" title="モンスター" sortOrder="" amazonCategory="Toys" />
+                <category id="148220_000000000000001001" title="乗り物" sortOrder="" amazonCategory="Toys" />
+                <category id="141661_000000000000001001" title="フィギュアアクセサリ" sortOrder="" amazonCategory="Toys" />
+                <category id="141658_000000000000001001" title="ディズニー" sortOrder="" amazonCategory="Toys" />
+                <category id="148219_000000000000001001" title="建物・情景" sortOrder="" amazonCategory="Toys" />
+            </category>
+            <category id="141768_000000000000001001" title="コレクションカー・ダイキャストカー" sortOrder="" amazonCategory="Toys" >
+                <category id="141769_000000000000001001" title="ミニカー" sortOrder="" amazonCategory="Toys" />
+                <category id="141772_000000000000001001" title="戦闘機" sortOrder="" amazonCategory="Toys" />
+                <category id="141771_000000000000001001" title="飛行機" sortOrder="" amazonCategory="Toys" />
+                <category id="141770_000000000000001001" title="バイク" sortOrder="" amazonCategory="Toys" />
+                <category id="141775_000000000000001001" title="船舶" sortOrder="" amazonCategory="Toys" />
+                <category id="141773_000000000000001001" title="コレクションカー用パーツ・カタログ" sortOrder="" amazonCategory="Toys" />
+                <category id="141774_000000000000001001" title="宇宙船" sortOrder="" amazonCategory="Toys" />
+            </category>
+            <category id="141662_000000000000001001" title="トレーディングカード" sortOrder="" amazonCategory="Toys" >
+                <category id="141664_000000000000001001" title="カードサプライ・アクセサリ" sortOrder="" amazonCategory="Toys" >
+                    <category id="141668_000000000000001001" title="スリーブ" sortOrder="" amazonCategory="Toys" />
+                    <category id="141669_000000000000001001" title="プレイマット・プレイマットケース" sortOrder="" amazonCategory="Toys" />
+                    <category id="141667_000000000000001001" title="ケース" sortOrder="" amazonCategory="Toys" />
+                    <category id="141665_000000000000001001" title="アルバム・ファイル" sortOrder="" amazonCategory="Toys" />
+                    <category id="141666_000000000000001001" title="リフィル" sortOrder="" amazonCategory="Toys" />
+                    <category id="148218_000000000000001001" title="トレーディングカード用クリーナー" sortOrder="" amazonCategory="Toys" />
+                    <category id="141670_000000000000001001" title="カウンター" sortOrder="" amazonCategory="Toys" />
+                </category>
+                <category id="141663_000000000000001001" title="カード" sortOrder="" amazonCategory="Toys" />
+                <category id="148217_000000000000001001" title="アーケードゲーム用カード・アクセサリ" sortOrder="" amazonCategory="Toys" />
+            </category>
+            <category id="146499_000000000000001001" title="ラジコン" sortOrder="" amazonCategory="Toys" >
+                <category id="146498_000000000000001001" title="車・トラック" sortOrder="" amazonCategory="Toys" />
+                <category id="146491_000000000000001001" title="パーツ・アクセサリ" sortOrder="" amazonCategory="Toys" >
+                    <category id="146479_000000000000001001" title="バッテリーパーツ" sortOrder="" amazonCategory="Toys" />
+                    <category id="146488_000000000000001001" title="カー用駆動パーツ" sortOrder="" amazonCategory="Toys" />
+                    <category id="146490_000000000000001001" title="カー用ボディパーツ" sortOrder="" amazonCategory="Toys" />
+                    <category id="146478_000000000000001001" title="汎用パーツ" sortOrder="" amazonCategory="Toys" />
+                    <category id="146477_000000000000001001" title="ラジコン用メンテナンス用品" sortOrder="" amazonCategory="Toys" />
+                    <category id="146486_000000000000001001" title="カー用タイヤパーツ" sortOrder="" amazonCategory="Toys" />
+                    <category id="146487_000000000000001001" title="カー用サスペンションパーツ" sortOrder="" amazonCategory="Toys" />
+                    <category id="146489_000000000000001001" title="カー用エンジンパーツ" sortOrder="" amazonCategory="Toys" />
+                    <category id="193011_000000000000001001" title="ドローン用アクセサリ" sortOrder="" amazonCategory="Toys" />
+                    <category id="146485_000000000000001001" title="ヘリコプター用パーツ" sortOrder="" amazonCategory="Toys" />
+                    <category id="146484_000000000000001001" title="飛行機用パーツ" sortOrder="" amazonCategory="Toys" />
+                    <category id="146481_000000000000001001" title="オートバイ用パーツ" sortOrder="" amazonCategory="Toys" />
+                </category>
+                <category id="146497_000000000000001001" title="ヘリコプター" sortOrder="" amazonCategory="Toys" />
+                <category id="191123_000000000000001001" title="ドローン" sortOrder="" amazonCategory="Toys" />
+                <category id="146494_000000000000001001" title="戦車・軍用車両" sortOrder="" amazonCategory="Toys" />
+                <category id="146476_000000000000001001" title="プロポ" sortOrder="" amazonCategory="Toys" >
+                    <category id="146475_000000000000001001" title="送信機・プロポ" sortOrder="" amazonCategory="Toys" />
+                    <category id="146473_000000000000001001" title="ESC" sortOrder="" amazonCategory="Toys" />
+                    <category id="146474_000000000000001001" title="受信機" sortOrder="" amazonCategory="Toys" />
+                    <category id="146472_000000000000001001" title="サーボ・サーボ用パーツ" sortOrder="" amazonCategory="Toys" />
+                    <category id="" title="" sortOrder="" amazonCategory="Toys" />
+                    <category id="" title="" sortOrder="" amazonCategory="Toys" />
+                </category>
+                <category id="146496_000000000000001001" title="飛行機" sortOrder="" amazonCategory="Toys" />
+                <category id="146495_000000000000001001" title="船・潜水艦" sortOrder="" amazonCategory="Toys" />
+                <category id="146492_000000000000001001" title="ロボット" sortOrder="" amazonCategory="Toys" />
+                <category id="146493_000000000000001001" title="オートバイ" sortOrder="" amazonCategory="Toys" />
+            </category>
+            <category id="141776_000000000000001001" title="アニメ・キャラクターグッズ" sortOrder="" amazonCategory="Toys" >
+                <category id="146005_000000000000001001" title="ファッション・ファッション小物" sortOrder="" amazonCategory="Toys" />
+                <category id="146008_000000000000001001" title="生活用品・日用品" sortOrder="" amazonCategory="Toys" />
+                <category id="146006_000000000000001001" title="文房具・学用品" sortOrder="" amazonCategory="Toys" />
+                <category id="141792_000000000000001001" title="シール・ステッカー" sortOrder="" amazonCategory="Toys" />
+                <category id="148276_000000000000001001" title="イヤホン・ヘッドホン" sortOrder="" amazonCategory="Toys" />
+                <category id="141797_000000000000001001" title="ストラップ" sortOrder="" amazonCategory="Toys" />
+                <category id="146007_000000000000001001" title="携帯電話アクセサリ" sortOrder="" amazonCategory="Toys" />
+                <category id="141815_000000000000001001" title="カードケース" sortOrder="" amazonCategory="Toys" />
+                <category id="141805_000000000000001001" title="ポスター・タペストリー" sortOrder="" amazonCategory="Toys" />
+                <category id="141793_000000000000001001" title="ワッペン" sortOrder="" amazonCategory="Toys" />
+                <category id="148265_000000000000001001" title="アイピロー・アイマスク" sortOrder="" amazonCategory="Toys" />
+                <category id="148379_000000000000001001" title="ポチ袋・小分け袋" sortOrder="" amazonCategory="Toys" />
+                <category id="141819_000000000000001001" title="マウスパッド" sortOrder="" amazonCategory="Toys" />
+                <category id="148288_000000000000001001" title="卓上用品" sortOrder="" amazonCategory="Toys" />
+                <category id="141802_000000000000001001" title="バッジ・ピンズ" sortOrder="" amazonCategory="Toys" />
+                <category id="148280_000000000000001001" title="キャラクターくじ" sortOrder="" amazonCategory="Toys" />
+                <category id="141808_000000000000001001" title="マグネット" sortOrder="" amazonCategory="Toys" />
+                <category id="148287_000000000000001001" title="USBグッズ" sortOrder="" amazonCategory="Toys" />
+                <category id="148291_000000000000001001" title="デコレーションジャケット" sortOrder="" amazonCategory="Toys" />
+                <category id="141809_000000000000001001" title="お守り" sortOrder="" amazonCategory="Toys" />
+                <category id="141821_000000000000001001" title="しおり" sortOrder="" amazonCategory="Toys" />
+                <category id="148282_000000000000001001" title="クリップ" sortOrder="" amazonCategory="Toys" />
+                <category id="148290_000000000000001001" title="カー用品" sortOrder="" amazonCategory="Toys" />
+                <category id="148278_000000000000001001" title="コードホルダー" sortOrder="" amazonCategory="Toys" />
+                <category id="141806_000000000000001001" title="メガネアクセサリ" sortOrder="" amazonCategory="Toys" />
+                <category id="148289_000000000000001001" title="ドアストッパー" sortOrder="" amazonCategory="Toys" />
+                <category id="148277_000000000000001001" title="スピーカー" sortOrder="" amazonCategory="Toys" />
+                <category id="141813_000000000000001001" title="マット" sortOrder="" amazonCategory="Toys" />
+                <category id="152002_000000000000001001" title="アニメ・キャラクターグッズ-クリーナークロス" sortOrder="" amazonCategory="Toys" />
+                <category id="141817_000000000000001001" title="コースター" sortOrder="" amazonCategory="Toys" />
+            </category>
+        </category>
+        <category id="141336_000000000000001001" title="おもちゃ" sortOrder="" amazonCategory="Toys" >
+            <category id="141372_000000000000001001" title="電車・ミニカー・乗り物" sortOrder="" amazonCategory="Toys" >
+                <category id="141373_000000000000001001" title="ミニカー・モデルカー" sortOrder="" amazonCategory="Toys" >
+                    <category id="141374_000000000000001001" title="ミニカー・ダイキャストカー" sortOrder="" amazonCategory="Toys" >
+                        <category id="141375_000000000000001001" title="トミカ" sortOrder="" amazonCategory="Toys" />
+                        <category id="141376_000000000000001001" title="ミニカー" sortOrder="" amazonCategory="Toys" />
+                    </category>
+                    <category id="141377_000000000000001001" title="フリクションカー" sortOrder="" amazonCategory="Toys" />
+                    <category id="141378_000000000000001001" title="タウン・ジオラマ" sortOrder="" amazonCategory="Toys" />
+                </category>
+                <category id="141388_000000000000001001" title="プラレール" sortOrder="" amazonCategory="Toys" >
+                    <category id="141389_000000000000001001" title="プラレール車両" sortOrder="" amazonCategory="Toys" />
+                    <category id="141390_000000000000001001" title="プラレール用レール" sortOrder="" amazonCategory="Toys" />
+                    <category id="141391_000000000000001001" title="プラレール用情景部品" sortOrder="" amazonCategory="Toys" />
+                    <category id="141392_000000000000001001" title="プラレール用パーツ" sortOrder="" amazonCategory="Toys" />
+                </category>
+                <category id="141383_000000000000001001" title="電車" sortOrder="" amazonCategory="Toys" >
+                    <category id="141384_000000000000001001" title="車両" sortOrder="" amazonCategory="Toys" />
+                    <category id="141385_000000000000001001" title="レール" sortOrder="" amazonCategory="Toys" />
+                    <category id="141386_000000000000001001" title="情景部品" sortOrder="" amazonCategory="Toys" />
+                </category>
+                <category id="141379_000000000000001001" title="レーシングカー・コース" sortOrder="" amazonCategory="Toys" >
+                    <category id="141380_000000000000001001" title="スロットカー・レーシングカー" sortOrder="" amazonCategory="Toys" />
+                    <category id="141382_000000000000001001" title="コース" sortOrder="" amazonCategory="Toys" />
+                    <category id="141381_000000000000001001" title="チューニングパーツ" sortOrder="" amazonCategory="Toys" />
+                </category>
+                <category id="141387_000000000000001001" title="飛行機・戦闘機" sortOrder="" amazonCategory="Toys" />
+            </category>
+            <category id="141425_000000000000001001" title="ブロック" sortOrder="" amazonCategory="Toys" >
+                <category id="141426_000000000000001001" title="レゴ" sortOrder="" amazonCategory="Toys" />
+                <category id="141427_000000000000001001" title="ナノブロック" sortOrder="" amazonCategory="Toys" />
+                <category id="141431_000000000000001001" title="LaQ（ラキュー）" sortOrder="" amazonCategory="Toys" />
+                <category id="141430_000000000000001001" title="ニューブロック" sortOrder="" amazonCategory="Toys" />
+                <category id="141428_000000000000001001" title="ダイヤブロック" sortOrder="" amazonCategory="Toys" />
+                <category id="141432_000000000000001001" title="アーテックブロック" sortOrder="" amazonCategory="Toys" />
+                <category id="141433_000000000000001001" title="アソブロック" sortOrder="" amazonCategory="Toys" />
+                <category id="141429_000000000000001001" title="メガブロック" sortOrder="" amazonCategory="Toys" />
+                <category id="160001_000000000000001001" title="ホビー用ブロック" sortOrder="" amazonCategory="Toys" />
+                <category id="148382_000000000000001001" title="リブロック" sortOrder="" amazonCategory="Toys" />
+            </category>
+            <category id="141337_000000000000001001" title="赤ちゃん用おもちゃ・知育玩具" sortOrder="" amazonCategory="Toys" >
+                <category id="141358_000000000000001001" title="学習・科学・工作" sortOrder="" amazonCategory="Toys" />
+                <category id="141347_000000000000001001" title="知育玩具" sortOrder="" amazonCategory="Toys" />
+                <category id="141338_000000000000001001" title="赤ちゃん用おもちゃ" sortOrder="" amazonCategory="Toys" >
+                    <category id="141342_000000000000001001" title="がらがら・ラトル" sortOrder="" amazonCategory="Toys" />
+                    <category id="141343_000000000000001001" title="おやすみトイ" sortOrder="" amazonCategory="Toys" />
+                    <category id="141344_000000000000001001" title="おでかけトイ" sortOrder="" amazonCategory="Toys" />
+                    <category id="141339_000000000000001001" title="メリー・ジム・プレイマット" sortOrder="" amazonCategory="Toys" >
+                        <category id="146371_000000000000001001" title="ベビージム・プレイマット" sortOrder="" amazonCategory="Toys" />
+                        <category id="146370_000000000000001001" title="ベッドメリー・モビール" sortOrder="" amazonCategory="Toys" />
+                    </category>
+                    <category id="141345_000000000000001001" title="赤ちゃん用ぬいぐるみ" sortOrder="" amazonCategory="Toys" />
+                    <category id="141346_000000000000001001" title="ボール" sortOrder="" amazonCategory="Toys" />
+                </category>
+            </category>
+            <category id="146471_000000000000001001" title="プラモデル・模型" sortOrder="" amazonCategory="Toys" >
+                <category id="146469_000000000000001001" title="ミニ四駆用パーツ・アクセサリ" sortOrder="" amazonCategory="Toys" />
+                <category id="146454_000000000000001001" title="ガンダムプラモデル-ガンプラ" sortOrder="" amazonCategory="Toys" />
+                <category id="146470_000000000000001001" title="ミニ四駆" sortOrder="" amazonCategory="Toys" />
+                <category id="146465_000000000000001001" title="乗用車-レースカー-トラック" sortOrder="" amazonCategory="Toys" />
+                <category id="146468_000000000000001001" title="戦闘機-飛行機-ヘリコプター" sortOrder="" amazonCategory="Toys" />
+                <category id="146458_000000000000001001" title="プラモデル用パーツ・アクセサリ" sortOrder="" amazonCategory="Toys" />
+                <category id="146467_000000000000001001" title="軍艦-潜水艦-船舶" sortOrder="" amazonCategory="Toys" />
+                <category id="146463_000000000000001001" title="戦車・軍用車両・大砲・兵士" sortOrder="" amazonCategory="Toys" />
+                <category id="146461_000000000000001001" title="ロボット" sortOrder="" amazonCategory="Toys" />
+                <category id="146459_000000000000001001" title="機関車・鉄道" sortOrder="" amazonCategory="Toys" />
+                <category id="146462_000000000000001001" title="オートバイ" sortOrder="" amazonCategory="Toys" />
+                <category id="146466_000000000000001001" title="城・建物・情景" sortOrder="" amazonCategory="Toys" />
+                <category id="146455_000000000000001001" title="キャラクター" sortOrder="" amazonCategory="Toys" />
+                <category id="146464_000000000000001001" title="人・動物" sortOrder="" amazonCategory="Toys" />
+                <category id="146460_000000000000001001" title="ロケット・宇宙船" sortOrder="" amazonCategory="Toys" />
+                <category id="146456_000000000000001001" title="伝統・文化" sortOrder="" amazonCategory="Toys" />
+                <category id="146457_000000000000001001" title="プラモデルカタログ" sortOrder="" amazonCategory="Toys" />
+            </category>
+            <category id="141538_000000000000001001" title="ゲーム" sortOrder="" amazonCategory="Toys" >
+                <category id="141539_000000000000001001" title="ボードゲーム" sortOrder="" amazonCategory="Toys" />
+                <category id="141540_000000000000001001" title="カードゲーム・トランプ" sortOrder="" amazonCategory="Toys" />
+                <category id="141571_000000000000001001" title="ダイス・サイコロ" sortOrder="" amazonCategory="Toys" />
+                <category id="141557_000000000000001001" title="アクションゲーム" sortOrder="" amazonCategory="Toys" />
+                <category id="141555_000000000000001001" title="電子ゲーム" sortOrder="" amazonCategory="Toys" />
+                <category id="141563_000000000000001001" title="ダーツ" sortOrder="" amazonCategory="Toys" />
+                <category id="141546_000000000000001001" title="将棋" sortOrder="" amazonCategory="Toys" />
+                <category id="141556_000000000000001001" title="スポーツゲーム" sortOrder="" amazonCategory="Toys" />
+                <category id="141558_000000000000001001" title="バランスゲーム" sortOrder="" amazonCategory="Toys" />
+                <category id="141554_000000000000001001" title="脳トレ・学習ゲーム" sortOrder="" amazonCategory="Toys" />
+                <category id="141560_000000000000001001" title="ポータブル・ポケットゲーム" sortOrder="" amazonCategory="Toys" />
+                <category id="141541_000000000000001001" title="ビンゴ・くじ" sortOrder="" amazonCategory="Toys" />
+                <category id="141551_000000000000001001" title="麻雀" sortOrder="" amazonCategory="Toys" />
+                <category id="141543_000000000000001001" title="リバーシ" sortOrder="" amazonCategory="Toys" />
+                <category id="197011_000000000000001001" title="ルーレット・チップ" sortOrder="" amazonCategory="Toys" />
+                <category id="141544_000000000000001001" title="すごろく" sortOrder="" amazonCategory="Toys" />
+                <category id="141548_000000000000001001" title="花札" sortOrder="" amazonCategory="Toys" />
+                <category id="141549_000000000000001001" title="かるた" sortOrder="" amazonCategory="Toys" />
+                <category id="141545_000000000000001001" title="囲碁" sortOrder="" amazonCategory="Toys" />
+                <category id="141559_000000000000001001" title="テーブルトークRPG" sortOrder="" amazonCategory="Toys" />
+                <category id="141552_000000000000001001" title="バックギャモン" sortOrder="" amazonCategory="Toys" />
+                <category id="141562_000000000000001001" title="パチスロ" sortOrder="" amazonCategory="Toys" />
+                <category id="141561_000000000000001001" title="パチンコ" sortOrder="" amazonCategory="Toys" />
+                <category id="141550_000000000000001001" title="ドミノ" sortOrder="" amazonCategory="Toys" />
+                <category id="141542_000000000000001001" title="チェス" sortOrder="" amazonCategory="Toys" />
+                <category id="141547_000000000000001001" title="百人一首" sortOrder="" amazonCategory="Toys" />
+            </category>
+            <category id="141517_000000000000001001" title="パズル" sortOrder="" amazonCategory="Toys" >
+                <category id="141520_000000000000001001" title="ジグソーパズル" sortOrder="" amazonCategory="Toys" >
+                    <category id="141522_000000000000001001" title="キャラクター" sortOrder="" amazonCategory="Toys" />
+                    <category id="141521_000000000000001001" title="ディズニー" sortOrder="" amazonCategory="Toys" />
+                    <category id="141525_000000000000001001" title="日本の風景" sortOrder="" amazonCategory="Toys" />
+                    <category id="141527_000000000000001001" title="イラスト＆アート" sortOrder="" amazonCategory="Toys" />
+                    <category id="141526_000000000000001001" title="海外の風景" sortOrder="" amazonCategory="Toys" />
+                    <category id="141524_000000000000001001" title="絵画" sortOrder="" amazonCategory="Toys" />
+                    <category id="141523_000000000000001001" title="ジブリ" sortOrder="" amazonCategory="Toys" />
+                    <category id="141528_000000000000001001" title="世界遺産" sortOrder="" amazonCategory="Toys" />
+                    <category id="141532_000000000000001001" title="花" amazonCategory="Toys" />
+                    <category id="141530_000000000000001001" title="ラッセン" sortOrder="" amazonCategory="Toys" />
+                    <category id="153027_000000000000001001" title="ジグソーパズル-映画・ドラマ" sortOrder="" amazonCategory="Toys" />
+                    <category id="141534_000000000000001001" title="歴史" sortOrder="" amazonCategory="Toys" />
+                    <category id="141531_000000000000001001" title="動物" sortOrder="" amazonCategory="Toys" />
+                    <category id="141536_000000000000001001" title="地図・国旗" sortOrder="" amazonCategory="Toys" />
+                    <category id="141535_000000000000001001" title="タレント・人物" sortOrder="" amazonCategory="Toys" />
+                    <category id="141529_000000000000001001" title="乗り物" sortOrder="" amazonCategory="Toys" />
+                    <category id="148228_000000000000001001" title="無地" sortOrder="" amazonCategory="Toys" />
+                </category>
+                <category id="141537_000000000000001001" title="パズルフレーム・額" sortOrder="" amazonCategory="Toys" />
+                <category id="141518_000000000000001001" title="立体パズル" sortOrder="" amazonCategory="Toys" />
+                <category id="148378_000000000000001001" title="パズル用のり" sortOrder="" amazonCategory="Toys" />
+                <category id="141519_000000000000001001" title="木製パズル" sortOrder="" amazonCategory="Toys" />
+                <category id="148227_000000000000001001" title="ロールマット" sortOrder="" amazonCategory="Toys" />
+                <category id="148226_000000000000001001" title="シルエットパズル" sortOrder="" amazonCategory="Toys" />
+            </category>
+            <category id="141468_000000000000001001" title="アクション・スポーツトイ" sortOrder="" amazonCategory="Toys" >
+                <category id="141489_000000000000001001" title="プール・水遊び" sortOrder="" amazonCategory="Toys" >
+                    <category id="141492_000000000000001001" title="水鉄砲" sortOrder="" amazonCategory="Toys" />
+                    <category id="141495_000000000000001001" title="スイムベスト・浮き輪" sortOrder="" amazonCategory="Toys" />
+                    <category id="141494_000000000000001001" title="ボート・フロート" sortOrder="" amazonCategory="Toys" />
+                    <category id="148236_000000000000001001" title="プール" sortOrder="" amazonCategory="Toys" />
+                    <category id="141497_000000000000001001" title="アームリング" sortOrder="" amazonCategory="Toys" />
+                    <category id="211037_000000000000001001" title="ビーチバッグ" sortOrder="" amazonCategory="Toys" />
+                    <category id="141496_000000000000001001" title="ベビー浮き輪" sortOrder="" amazonCategory="Toys" />
+                    <category id="141490_000000000000001001" title="プールポンプ" sortOrder="" amazonCategory="Toys" />
+                    <category id="141491_000000000000001001" title="プールトイ" sortOrder="" amazonCategory="Toys" />
+                    <category id="141493_000000000000001001" title="ボール" sortOrder="" amazonCategory="Toys" />
+                </category>
+                <category id="141472_000000000000001001" title="けん玉" sortOrder="" amazonCategory="Toys" />
+                <category id="141499_000000000000001001" title="砂遊び" sortOrder="" amazonCategory="Toys" />
+                <category id="141503_000000000000001001" title="シューティング・トイ" sortOrder="" amazonCategory="Toys" />
+                <category id="141476_000000000000001001" title="球技・スポーツ" sortOrder="" amazonCategory="Toys" >
+                    <category id="141477_000000000000001001" title="野球" sortOrder="" amazonCategory="Toys" />
+                    <category id="141479_000000000000001001" title="ゴルフ" sortOrder="" amazonCategory="Toys" />
+                    <category id="148237_000000000000001001" title="格闘技" sortOrder="" amazonCategory="Toys" />
+                    <category id="141478_000000000000001001" title="サッカー" sortOrder="" amazonCategory="Toys" />
+                    <category id="141480_000000000000001001" title="バスケットボール" sortOrder="" amazonCategory="Toys" />
+                </category>
+                <category id="141469_000000000000001001" title="対戦型トイ" sortOrder="" amazonCategory="Toys" />
+                <category id="141470_000000000000001001" title="ヨーヨー" sortOrder="" amazonCategory="Toys" />
+                <category id="141500_000000000000001001" title="ブーメラン・フリスビー" sortOrder="" amazonCategory="Toys" />
+                <category id="148235_000000000000001001" title="紙飛行機・グライダー" sortOrder="" amazonCategory="Toys" />
+                <category id="141484_000000000000001001" title="ジャングルジム・ブランコ" sortOrder="" amazonCategory="Toys" />
+                <category id="141475_000000000000001001" title="シャボン玉" sortOrder="" amazonCategory="Toys" />
+                <category id="141482_000000000000001001" title="凧・カイト" sortOrder="" amazonCategory="Toys" />
+                <category id="141504_000000000000001001" title="竹馬・ホッピング" sortOrder="" amazonCategory="Toys" />
+                <category id="141474_000000000000001001" title="なわとび" sortOrder="" amazonCategory="Toys" />
+                <category id="148234_000000000000001001" title="フラフープ" sortOrder="" amazonCategory="Toys" />
+                <category id="141483_000000000000001001" title="トランポリン" sortOrder="" amazonCategory="Toys" />
+                <category id="141488_000000000000001001" title="的あて・ボーリング" sortOrder="" amazonCategory="Toys" />
+                <category id="141486_000000000000001001" title="キッズテント" sortOrder="" amazonCategory="Toys" />
+                <category id="141473_000000000000001001" title="お手玉" sortOrder="" amazonCategory="Toys" />
+                <category id="148232_000000000000001001" title="ボール・スーパーボール" sortOrder="" amazonCategory="Toys" />
+                <category id="141481_000000000000001001" title="ラケットゲーム" sortOrder="" amazonCategory="Toys" />
+                <category id="141502_000000000000001001" title="こま" sortOrder="" amazonCategory="Toys" />
+                <category id="141471_000000000000001001" title="ビー玉" sortOrder="" amazonCategory="Toys" />
+                <category id="141485_000000000000001001" title="すべり台" sortOrder="" amazonCategory="Toys" />
+                <category id="148238_000000000000001001" title="おはじき" sortOrder="" amazonCategory="Toys" />
+                <category id="141501_000000000000001001" title="竹とんぼ" sortOrder="" amazonCategory="Toys" />
+                <category id="148233_000000000000001001" title="輪投げ" sortOrder="" amazonCategory="Toys" />
+            </category>
+            <category id="141434_000000000000001001" title="人形・ハウス" sortOrder="" amazonCategory="Toys" >
+                <category id="141437_000000000000001001" title="人形・ドール" sortOrder="" amazonCategory="Toys" />
+                <category id="141440_000000000000001001" title="ハウス" sortOrder="" amazonCategory="Toys" />
+                <category id="141439_000000000000001001" title="ドレス・アクセサリ" sortOrder="" amazonCategory="Toys" />
+                <category id="141441_000000000000001001" title="家具" sortOrder="" amazonCategory="Toys" />
+                <category id="141438_000000000000001001" title="ミニドール" sortOrder="" amazonCategory="Toys" />
+                <category id="141435_000000000000001001" title="抱き人形" sortOrder="" amazonCategory="Toys" />
+                <category id="141436_000000000000001001" title="お世話パーツ" sortOrder="" amazonCategory="Toys" />
+                <category id="141442_000000000000001001" title="乗り物" sortOrder="" amazonCategory="Toys" />
+                <category id="141443_000000000000001001" title="食べ物" sortOrder="" amazonCategory="Toys" />
+            </category>
+            <category id="141444_000000000000001001" title="クッキング・メイキングトイ" sortOrder="" amazonCategory="Toys" >
+                <category id="141446_000000000000001001" title="メイキングトイ" sortOrder="" amazonCategory="Toys" >
+                    <category id="141447_000000000000001001" title="ビーズ" sortOrder="" amazonCategory="Toys" />
+                    <category id="141453_000000000000001001" title="オシャレ" sortOrder="" amazonCategory="Toys" />
+                    <category id="141449_000000000000001001" title="スイーツデコ" sortOrder="" amazonCategory="Toys" />
+                    <category id="141448_000000000000001001" title="ステーショナリー" sortOrder="" amazonCategory="Toys" />
+                    <category id="141452_000000000000001001" title="" sortOrder="あみもの" amazonCategory="Toys" />
+                    <category id="141450_000000000000001001" title="" sortOrder="ネイル" amazonCategory="Toys" />
+                    <category id="141451_000000000000001001" title="ヘアアクセサリ" sortOrder="" amazonCategory="Toys" />
+                </category>
+                <category id="141445_000000000000001001" title="クッキングトイ" sortOrder="" amazonCategory="Toys" />
+            </category>
+            <category id="141420_000000000000001001" title="変身・なりきりグッズ" sortOrder="" amazonCategory="Toys" >
+                <category id="141421_000000000000001001" title="ベルト・なりきりアイテム" sortOrder="" amazonCategory="Toys" />
+                <category id="141422_000000000000001001" title="変身アクセサリ" sortOrder="" amazonCategory="Toys" />
+                <category id="141423_000000000000001001" title="キッズコスチューム" sortOrder="" amazonCategory="Toys" />
+            </category>
+            <category id="146452_000000000000001001" title="アニメ・キャラクターグッズ" sortOrder="" amazonCategory="Toys" >
+                <category id="146451_000000000000001001" title="ファッション・ファッション小物" sortOrder="" amazonCategory="Toys" />
+                <category id="146436_000000000000001001" title="文房具・学用品" sortOrder="" amazonCategory="Toys" />
+                <category id="146415_000000000000001001" title="生活用品・日用品" sortOrder="" amazonCategory="Toys" />
+                <category id="146524_000000000000001001" title="デコレーションジャケット" sortOrder="" amazonCategory="Toys" />
+                <category id="146511_000000000000001001" title="マウスパッド" sortOrder="" amazonCategory="Toys" />
+                <category id="146500_000000000000001001" title="シール・ステッカー" sortOrder="" amazonCategory="Toys" />
+                <category id="146504_000000000000001001" title="ポスター・タペストリー" sortOrder="" amazonCategory="Toys" />
+                <category id="146502_000000000000001001" title="ストラップ" sortOrder="" amazonCategory="Toys" />
+                <category id="146517_000000000000001001" title="コードホルダー" sortOrder="" amazonCategory="Toys" />
+                <category id="146520_000000000000001001" title="USBグッズ" sortOrder="" amazonCategory="Toys" />
+                <category id="146509_000000000000001001" title="カードケース" sortOrder="" amazonCategory="Toys" />
+                <category id="146523_000000000000001001" title="カー用品" sortOrder="" amazonCategory="Toys" />
+                <category id="146507_000000000000001001" title="お守り" sortOrder="" amazonCategory="Toys" />
+                <category id="146525_000000000000001001" title="ポチ袋・小分け袋" sortOrder="" amazonCategory="Toys" />
+                <category id="146518_000000000000001001" title="キャラクターくじ" sortOrder="" amazonCategory="Toys" />
+                <category id="146516_000000000000001001" title="スピーカー" sortOrder="" amazonCategory="Toys" />
+                <category id="146521_000000000000001001" title="卓上用品" sortOrder="" amazonCategory="Toys" />
+                <category id="146505_000000000000001001" title="メガネアクセサリ" sortOrder="" amazonCategory="Toys" />
+                <category id="146501_000000000000001001" title="ワッペン" sortOrder="" amazonCategory="Toys" />
+                <category id="146510_000000000000001001" title="コースター" sortOrder="" amazonCategory="Toys" />
+                <category id="146421_000000000000001001" title="携帯電話アクセサリ" sortOrder="" amazonCategory="Toys" />
+                <category id="146519_000000000000001001" title="クリップ" sortOrder="" amazonCategory="Toys" />
+                <category id="146503_000000000000001001" title="バッジ・ピンズ" sortOrder="" amazonCategory="Toys" />
+                <category id="146506_000000000000001001" title="マグネット" sortOrder="" amazonCategory="Toys" />
+                <category id="146508_000000000000001001" title="マット" sortOrder="" amazonCategory="Toys" />
+                <category id="146512_000000000000001001" title="しおり" sortOrder="" amazonCategory="Toys" />
+                <category id="146514_000000000000001001" title="アイピロー・アイマスク" sortOrder="" amazonCategory="Toys" />
+                <category id="146515_000000000000001001" title="イヤホン・ヘッドホン" sortOrder="" amazonCategory="Toys" />
+                <category id="146522_000000000000001001" title="ドアストッパー" sortOrder="" amazonCategory="Toys" />
+                <category id="152001_000000000000001001" title="アニメ・キャラクターグッズ-クリーナークロス" sortOrder="" amazonCategory="Toys" />
+            </category>
+            <category id="141511_000000000000001001" title="ぬいぐるみ" sortOrder="" amazonCategory="Toys" />
+            <category id="141572_000000000000001001" title="ままごと・ごっこ遊び" sortOrder="" amazonCategory="Toys" >
+                <category id="141573_000000000000001001" title="キッチン・食べ物" sortOrder="" amazonCategory="Toys" >
+                    <category id="141574_000000000000001001" title="セット" sortOrder="" amazonCategory="Toys" />
+                    <category id="141575_000000000000001001" title="食べ物" sortOrder="" amazonCategory="Toys" />
+                    <category id="141576_000000000000001001" title="調理器具・食器" sortOrder="" amazonCategory="Toys" />
+                </category>
+                <category id="141578_000000000000001001" title="お店屋さん" sortOrder="" amazonCategory="Toys" />
+                <category id="141579_000000000000001001" title="お医者さん" sortOrder="" amazonCategory="Toys" />
+                <category id="148224_000000000000001001" title="きせかえ" sortOrder="" amazonCategory="Toys" />
+                <category id="141577_000000000000001001" title="家事" sortOrder="" amazonCategory="Toys" />
+                <category id="141580_000000000000001001" title="大工さん" sortOrder="" amazonCategory="Toys" />
+                <category id="148225_000000000000001001" title="お仕事" sortOrder="" amazonCategory="Toys" />
+            </category>
+            <category id="141630_000000000000001001" title="電子玩具・キッズ家電" sortOrder="" amazonCategory="Toys" >
+                <category id="141635_000000000000001001" title="時計玩具・キャラクター時計" sortOrder="" amazonCategory="Toys" />
+                <category id="146353_000000000000001001" title="子供用パソコン" sortOrder="" amazonCategory="Toys" />
+                <category id="173043_000000000000001001" title="電動ロボット" sortOrder="" amazonCategory="Toys" />
+                <category id="141632_000000000000001001" title="テレビゲーム・体感ゲーム" sortOrder="" amazonCategory="Toys" />
+                <category id="141636_000000000000001001" title="デジタルカメラ" sortOrder="" amazonCategory="Toys" />
+                <category id="141637_000000000000001001" title="電話・携帯電話" sortOrder="" amazonCategory="Toys" />
+                <category id="141633_000000000000001001" title="携帯ゲーム" sortOrder="" amazonCategory="Toys" />
+                <category id="141638_000000000000001001" title="音楽プレイヤー" sortOrder="" amazonCategory="Toys" />
+                <category id="141640_000000000000001001" title="カラオケ" sortOrder="" amazonCategory="Toys" />
+            </category>
+            <category id="141424_000000000000001001" title="ロボット・子ども向けフィギュア" sortOrder="" amazonCategory="Toys" />
+        </category>
+    </category>
+    <category id="140007_000000000000001848" title="ゲーム" sortOrder="" amazonCategory="VideoGames" >
+        <category id="140008_000000000000001848" title="TVゲーム" sortOrder="" amazonCategory="VideoGames" >
+            <category id="140009_000000000000001848" title="プレイステーション4" sortOrder="" amazonCategory="VideoGames" >
+                <category id="140010_000000000000001848" title="ゲームソフト" sortOrder="" amazonCategory="VideoGames" >
+                    <category id="140012_000000000000001848" title="アクション・シューティング" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140011_000000000000001848" title="ロールプレイング" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140014_000000000000001848" title="アドベンチャー" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140013_000000000000001848" title="シミュレーション" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140015_000000000000001848" title="レース" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140017_000000000000001848" title="スポーツ" sortOrder="" amazonCategory="VideoGames" >
+                        <category id="140018_000000000000001848" title="サッカー" sortOrder="" amazonCategory="VideoGames" />
+                        <category id="159884_000000000000001848" title="バスケットボール" sortOrder="" amazonCategory="VideoGames" />
+                    </category>
+                    <category id="165523_000000000000001848" title="テーブルゲーム・娯楽" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="153045_000000000000001848" title="パズル・クイズ" sortOrder="" amazonCategory="VideoGames" />
+                </category>
+                <category id="140019_000000000000001848" title="ゲーム機本体" sortOrder="" amazonCategory="VideoGames" />
+                <category id="140020_000000000000001848" title="周辺機器・アクセサリ" sortOrder="" amazonCategory="VideoGames" >
+                    <category id="140022_000000000000001848" title="コントローラー" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140029_000000000000001848" title="スタンド" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140028_000000000000001848" title="ヘッドセット・ヘッドホン" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140021_000000000000001848" title="ケーブル・アダプター" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140031_000000000000001848" title="端子キャップ・カバー" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140027_000000000000001848" title="アクセサリキット" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140032_000000000000001848" title="メモリー・ハードドライブ" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140030_000000000000001848" title="メンテナンス用品" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140024_000000000000001848" title="バッテリー・充電器" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140023_000000000000001848" title="ケース・収納" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140025_000000000000001848" title="ネットワーク機器" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140026_000000000000001848" title="スキンシール" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="152020_000000000000001848" title="モニタ" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="153015_000000000000001848" title="nasne（ナスネ）" sortOrder="" amazonCategory="VideoGames" />
+                </category>
+            </category>
+            <category id="140158_000000000000001848" title="Wii U" sortOrder="" amazonCategory="VideoGames" >
+                <category id="140171_000000000000001848" title="周辺機器・アクセサリ" sortOrder="" amazonCategory="VideoGames" >
+                    <category id="172001_000000000000001848" title="amiibo-アミーボ" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140178_000000000000001848" title="バッテリー・充電器" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140175_000000000000001848" title="コントローラー" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140174_000000000000001848" title="ケーブル・アダプター" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140190_000000000000001848" title="ディズニーインフィニティ" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="177001_000000000000001848" title="Wii-U対応ハードディスク" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140173_000000000000001848" title="ケース・収納" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140181_000000000000001848" title="液晶保護フィルム" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140177_000000000000001848" title="ネットワーク機器" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140180_000000000000001848" title="ヘッドセット・ヘッドホン・スピーカー" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140188_000000000000001848" title="マイク" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140176_000000000000001848" title="スキンシール" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140172_000000000000001848" title="アクセサリキット" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140185_000000000000001848" title="スタンド" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140187_000000000000001848" title="センサーバー" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140182_000000000000001848" title="タッチペン" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140186_000000000000001848" title="クーラー・ファン" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140184_000000000000001848" title="端子キャップ・カバー" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140183_000000000000001848" title="メンテナンス用品" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140179_000000000000001848" title="フェイスプレート・グリップ" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140189_000000000000001848" title="ストラップ" sortOrder="" amazonCategory="VideoGames" />
+                </category>
+                <category id="140159_000000000000001848" title="ゲームソフト" sortOrder="" amazonCategory="VideoGames" >
+                    <category id="140160_000000000000001848" title="アクション・シューティング" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140167_000000000000001848" title="ロールプレイング" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140163_000000000000001848" title="スポーツ" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140169_000000000000001848" title="フィットネス" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140162_000000000000001848" title="シミュレーション" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140164_000000000000001848" title="テーブルゲーム・娯楽" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140161_000000000000001848" title="アドベンチャー" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140168_000000000000001848" title="音楽・ダンス" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140166_000000000000001848" title="レース" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140165_000000000000001848" title="パズル・クイズ" sortOrder="" amazonCategory="VideoGames" />
+                </category>
+                <category id="140170_000000000000001848" title="ゲーム機本体" sortOrder="" amazonCategory="VideoGames" />
+                <category id="140956_000000000000001848" title="Wii・Wii-U・ニンテンドーDS・ニンテンドー3DS用プリペイドカード" sortOrder="" amazonCategory="VideoGames" />
+            </category>
+            <category id="140033_000000000000001848" title="プレイステーション3" sortOrder="" amazonCategory="VideoGames" >
+                <category id="140034_000000000000001848" title="ゲームソフト" sortOrder="" amazonCategory="VideoGames" >
+                    <category id="140036_000000000000001848" title="アクション・シューティング" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140035_000000000000001848" title="ロールプレイング" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140041_000000000000001848" title="レース" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140043_000000000000001848" title="スポーツ" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140037_000000000000001848" title="シミュレーション" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140059_000000000000001848" title="恋愛シミュレーション-アドベンチャー" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140039_000000000000001848" title="アドベンチャー" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140038_000000000000001848" title="シミュレーター" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140057_000000000000001848" title="テーブルゲーム・娯楽" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140058_000000000000001848" title="麻雀・パチンコ・パチスロ・競馬" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140056_000000000000001848" title="パズル・クイズ" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140040_000000000000001848" title="ノベル" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140055_000000000000001848" title="フィットネス" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140042_000000000000001848" title="音楽・ダンス" sortOrder="" amazonCategory="VideoGames" />
+                </category>
+                <category id="140061_000000000000001848" title="周辺機器・アクセサリ" sortOrder="" amazonCategory="VideoGames" >
+                    <category id="140063_000000000000001848" title="コントローラー" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140062_000000000000001848" title="ケーブル・アダプター" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140072_000000000000001848" title="スタンド" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140953_000000000000001848" title="torne（トルネ）" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140067_000000000000001848" title="ネットワーク機器" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140066_000000000000001848" title="バッテリー・充電器" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140069_000000000000001848" title="アクセサリキット" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140073_000000000000001848" title="メンテナンス用品" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140070_000000000000001848" title="ヘッドセット・ヘッドホン・スピーカー" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140071_000000000000001848" title="ゲーム攻略ツール" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140065_000000000000001848" title="ケース・収納" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140064_000000000000001848" title="メモリー・ハードドライブ" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140074_000000000000001848" title="端子キャップ・カバー" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140068_000000000000001848" title="スキンシール" sortOrder="" amazonCategory="VideoGames" />
+                </category>
+                <category id="140060_000000000000001848" title="ゲーム機本体" sortOrder="" amazonCategory="VideoGames" />
+                <category id="140075_000000000000001848" title="PSP用プリペイドカード" sortOrder="" amazonCategory="VideoGames" />
+            </category>
+            <category id="140191_000000000000001848" title="Xbox One" sortOrder="" amazonCategory="VideoGames" >
+                <category id="140192_000000000000001848" title="ゲームソフト" sortOrder="" amazonCategory="VideoGames" >
+                    <category id="149004_000000000000001848" title="レース" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="149003_000000000000001848" title="アクション・シューティング" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="140193_000000000000001848" title="ロールプレイング" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="152009_000000000000001848" title="シミュレーション" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="151001_000000000000001848" title="スポーツ" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="152008_000000000000001848" title="アドベンチャー" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="153046_000000000000001848" title="パズル・クイズ" sortOrder="" amazonCategory="VideoGames" />
+                </category>
+                <category id="149008_000000000000001848" title="周辺機器・アクセサリ" sortOrder="" amazonCategory="VideoGames" >
+                    <category id="152007_000000000000001848" title="コントローラー" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="149007_000000000000001848" title="ケーブル・アダプター" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="149009_000000000000001848" title="バッテリー・充電器" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="152006_000000000000001848" title="ヘッドセット" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="150141_000000000000001848" title="保護フィルム・スキンシート" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="150142_000000000000001848" title="スタンド" sortOrder="" amazonCategory="VideoGames" />
+                    <category id="152018_000000000000001848" title="端子キャップ・カバー" sortOrder="" amazonCategory="VideoGames" />
+                </category>
+                <category id="140194_000000000000001848" title="ゲーム機本体" sortOrder="" amazonCategory="VideoGames" />
+                <category id="152016_000000000000001848" title="プリペイドカード" sortOrder="" amazonCategory="VideoGames" />
+            </category>
+            <category id="140195_000000000000001848" title="Xbox-360" sortOrder="" amazonCategory="VideoGames" >
+                <category id="140196_000000000000001848" title="ゲームソフト" sortOrder="" amazonCategory="VideoGames" />
+                <category id="140222_000000000000001848" title="周辺機器・アクセサリ" sortOrder="" amazonCategory="VideoGames" />
+                <category id="140221_000000000000001848" title="ゲーム機本体" sortOrder="" amazonCategory="VideoGames" />
+                <category id="140235_000000000000001848" title="プリペイドカード" sortOrder="" amazonCategory="VideoGames" />
+            </category>
+            <category id="140115_000000000000001848" title="Wii" sortOrder="" amazonCategory="VideoGames" >
+                <category id="140116_000000000000001848" title="ゲームソフト" sortOrder="" amazonCategory="VideoGames" />
+                <category id="140141_000000000000001848" title="周辺機器・アクセサリ" sortOrder="" amazonCategory="VideoGames" />
+                <category id="140140_000000000000001848" title="ゲーム機本体" sortOrder="" amazonCategory="VideoGames" />
+                <category id="140957_000000000000001848" title="Wii・Wii-U・ニンテンドーDS・ニンテンドー3DS用プリペイドカード" sortOrder="" amazonCategory="VideoGames" />
+            </category>
+            <category id="140076_000000000000001848" title="プレイステーション2" sortOrder="" amazonCategory="VideoGames" >
+                <category id="140077_000000000000001848" title="ゲームソフト" sortOrder="" amazonCategory="VideoGames" />
+                <category id="140105_000000000000001848" title="周辺機器・アクセサリ" sortOrder="" amazonCategory="VideoGames" />
+                <category id="140104_000000000000001848" title="ゲーム機本体" sortOrder="" amazonCategory="VideoGames" />
+            </category>
+            <category id="140262_000000000000001848" title="汎用アクセサリ・周辺機器" sortOrder="" amazonCategory="VideoGames" >
+                <category id="140264_000000000000001848" title="バッテリー・充電器" sortOrder="" amazonCategory="VideoGames" />
+                <category id="140265_000000000000001848" title="ヘッドホン・ヘッドセット" sortOrder="" amazonCategory="VideoGames" />
+                <category id="140267_000000000000001848" title="ケーブル・アダプター" sortOrder="" amazonCategory="VideoGames" />
+                <category id="140269_000000000000001848" title="キーボード" sortOrder="" amazonCategory="VideoGames" />
+                <category id="140268_000000000000001848" title="プレイシート" sortOrder="" amazonCategory="VideoGames" />
+                <category id="140266_000000000000001848" title="ゲーム用メガネ" sortOrder="" amazonCategory="VideoGames" />
+                <category id="140263_000000000000001848" title="ストラップ" sortOrder="" amazonCategory="VideoGames" />
+            </category>
+            <category id="140259_000000000000001848" title="互換機" sortOrder="" amazonCategory="VideoGames" >
+                <category id="140260_000000000000001848" title="互換機本体" sortOrder="" amazonCategory="VideoGames" />
+                <category id="140261_000000000000001848" title="互換機用アクセサリ" sortOrder="" amazonCategory="VideoGames" />
+            </category>
+            <category id="140244_000000000000001848" title="スーパーファミコン" sortOrder="" amazonCategory="VideoGames" >
+                <category id="140245_000000000000001848" title="周辺機器・アクセサリ" sortOrder="" amazonCategory="VideoGames" />
+            </category>
+            <category id="140252_000000000000001848" title="PCエンジン" sortOrder="" amazonCategory="VideoGames" >
+                <category id="140253_000000000000001848" title="ゲームソフト" sortOrder="" amazonCategory="VideoGames" />
+            </category>
+            <category id="140246_000000000000001848" title="ファミリーコンピュータ" sortOrder="" amazonCategory="VideoGames" >
+                <category id="140247_000000000000001848" title="周辺機器・アクセサリ" sortOrder="" amazonCategory="VideoGames" />
+            </category>
+            <category id="140236_000000000000001848" title="プレイステーション" sortOrder="" amazonCategory="VideoGames" >
+                <category id="140237_000000000000001848" title="ゲームソフト" sortOrder="" amazonCategory="VideoGames" />
+                <category id="140239_000000000000001848" title="周辺機器・アクセサリ" sortOrder="" amazonCategory="VideoGames" />
+            </category>
+            <category id="140240_000000000000001848" title="ゲームキューブ" sortOrder="" amazonCategory="VideoGames" >
+                <category id="140241_000000000000001848" title="ゲームソフト" sortOrder="" amazonCategory="VideoGames" />
+                <category id="140243_000000000000001848" title="周辺機器・アクセサリ" sortOrder="" amazonCategory="VideoGames" />
+                <category id="140242_000000000000001848" title="ゲーム機本体" sortOrder="" amazonCategory="VideoGames" />
+            </category>
+            <category id="140254_000000000000001848" title="NEOGEO・ネオジオポケット" sortOrder="" amazonCategory="VideoGames" >
+                <category id="140256_000000000000001848" title="ゲーム機本体" sortOrder="" amazonCategory="VideoGames" />
+                <category id="140257_000000000000001848" title="周辺機器・アクセサリ" sortOrder="" amazonCategory="VideoGames" />
+            </category>
+            <category id="140248_000000000000001848" title="ニンテンドー64" sortOrder="" amazonCategory="VideoGames" >
+                <category id="140249_000000000000001848" title="周辺機器・アクセサリ" sortOrder="" amazonCategory="VideoGames" />
+            </category>
+            <category id="140250_000000000000001848" title="Xbox" sortOrder="" amazonCategory="VideoGames" >
+                <category id="140251_000000000000001848" title="周辺機器・アクセサリ" sortOrder="" amazonCategory="VideoGames" />
+            </category>
+            <category id="140258_000000000000001848" title="G-cluster" sortOrder="" amazonCategory="VideoGames" />
+        </category>
+        <category id="140270_000000000000001848" title="携帯型ゲーム" sortOrder="" amazonCategory="VideoGames" >
+            <category id="140395_000000000000001848" title="ニンテンドー3DS" sortOrder="" amazonCategory="VideoGames" />
+            <category id="140315_000000000000001848" title="PS-Vita" sortOrder="" amazonCategory="VideoGames" />
+            <category id="140350_000000000000001848" title="ニンテンドーDS" sortOrder="" amazonCategory="VideoGames" />
+            <category id="140271_000000000000001848" title="PSP" sortOrder="" amazonCategory="VideoGames" />
+            <category id="140970_000000000000001848" title="汎用アクセサリ・周辺機器" sortOrder="" amazonCategory="VideoGames" />
+            <category id="140436_000000000000001848" title="ゲームボーイアドバンス" sortOrder="" amazonCategory="VideoGames" />
+            <category id="140440_000000000000001848" title="ゲームボーイ" sortOrder="" amazonCategory="VideoGames" />
+            <category id="140443_000000000000001848" title="ゲームボーイカラー" sortOrder="" amazonCategory="VideoGames" />
+        </category>
+        <category id="140445_000000000000001848" title="PCゲーム" sortOrder="" amazonCategory="VideoGames" >
+            <category id="140450_000000000000001848" title="シミュレーション" sortOrder="" amazonCategory="VideoGames" />
+            <category id="149001_000000000000001848" title="アダルトゲーム" sortOrder="" amazonCategory="VideoGames" />
+            <category id="140446_000000000000001848" title="RPG" sortOrder="" amazonCategory="VideoGames" />
+            <category id="140447_000000000000001848" title="アクション" sortOrder="" amazonCategory="VideoGames" />
+            <category id="140461_000000000000001848" title="シューティング" sortOrder="" amazonCategory="VideoGames" />
+            <category id="140448_000000000000001848" title="アドベンチャー" sortOrder="" amazonCategory="VideoGames" />
+            <category id="140476_000000000000001848" title="プリペイドカード" sortOrder="" amazonCategory="VideoGames" />
+            <category id="140466_000000000000001848" title="レーシング" sortOrder="" amazonCategory="VideoGames" />
+            <category id="140462_000000000000001848" title="スポーツ" sortOrder="" amazonCategory="VideoGames" />
+            <category id="140470_000000000000001848" title="麻雀" sortOrder="" amazonCategory="VideoGames" />
+            <category id="140465_000000000000001848" title="パズル・クイズ・テーブルゲーム" sortOrder="" amazonCategory="VideoGames" />
+            <category id="140468_000000000000001848" title="将棋" sortOrder="" amazonCategory="VideoGames" />
+            <category id="140472_000000000000001848" title="パチンコ・パチスロ" sortOrder="" amazonCategory="VideoGames" />
+            <category id="140467_000000000000001848" title="囲碁" sortOrder="" amazonCategory="VideoGames" />
+            <category id="140463_000000000000001848" title="タイピング" sortOrder="" amazonCategory="VideoGames" />
+            <category id="140449_000000000000001848" title="ゲーム集" sortOrder="" amazonCategory="VideoGames" />
+            <category id="140475_000000000000001848" title="音楽・ダンス" sortOrder="" amazonCategory="VideoGames" />
+            <category id="140469_000000000000001848" title="競馬" sortOrder="" amazonCategory="VideoGames" />
+            <category id="140474_000000000000001848" title="ゲーム作成" sortOrder="" amazonCategory="VideoGames" />
+            <category id="140464_000000000000001848" title="チェス" sortOrder="" amazonCategory="VideoGames" />
+            <category id="140473_000000000000001848" title="占いソフト" sortOrder="" amazonCategory="VideoGames" />
+        </category>
+    </category>
+    <category id="91139_216520000000000000" title="オーディオソフト" sortOrder="" amazonCategory="Music" >
+        <category id="91145_216520000000000000" title="邦楽" sortOrder="" amazonCategory="Music" >
+            <category id="91147_216520000000000000" title="J-ポップ" sortOrder="" amazonCategory="Music" />
+            <category id="91146_216520000000000000" title="歌謡曲-演歌" sortOrder="" amazonCategory="Music" />
+        </category>
+        <category id="91214_216520000000000000" title="アニメ-ゲーム-音楽" sortOrder="" amazonCategory="Music" >
+            <category id="91218_216520000000000000" title="ゲーム-音楽" sortOrder="" amazonCategory="Music" />
+            <category id="91215_216520000000000000" title="アニメ-音楽" sortOrder="" amazonCategory="Music" />
+            <category id="91219_216520000000000000" title="その他アニメ-ゲーム-音楽" sortOrder="" amazonCategory="Music" />
+            <category id="146372_216520000000000000" title="ドラマCD・ラジオCD-オーディオソフト" sortOrder="" amazonCategory="Music" />
+        </category>
+        <category id="91154_216520000000000000" title="洋楽" sortOrder="" amazonCategory="Music" >
+            <category id="91155_216520000000000000" title="洋楽-ロック-ポップス" sortOrder="" amazonCategory="Music" />
+            <category id="91171_216520000000000000" title="ワールドミュージック" sortOrder="" amazonCategory="Music" />
+            <category id="91162_216520000000000000" title="洋楽-ソウル-ダンス" sortOrder="" amazonCategory="Music" />
+            <category id="91186_216520000000000000" title="その他洋楽" sortOrder="" amazonCategory="Music" />
+        </category>
+        <category id="91226_216520000000000000" title="サウンドトラック" sortOrder="" amazonCategory="Music" >
+            <category id="91233_216520000000000000" title="海外サウンドトラック" sortOrder="" amazonCategory="Music" />
+            <category id="91227_216520000000000000" title="国内サウンドトラック" sortOrder="" amazonCategory="Music" />
+        </category>
+    </category>
+    <category id="91003_216220000000000000" title="DVD・ブルーレイソフト" sortOrder="" amazonCategory="DVD" >
+        <category id="91004_216220000000000000" title="映画" sortOrder="" amazonCategory="DVD" >
+            <category id="91006_216220000000000000" title="洋画" sortOrder="" amazonCategory="DVD" />
+            <category id="91005_216220000000000000" title="邦画" sortOrder="" amazonCategory="DVD" />
+            <category id="91007_216220000000000000" title="韓国・アジア映画" sortOrder="" amazonCategory="DVD" />
+            <category id="91008_216220000000000000" title="その他映画" sortOrder="" amazonCategory="DVD" />
+        </category>
+        <category id="91014_216220000000000000" title="アニメ" sortOrder="" amazonCategory="DVD" >
+            <category id="91015_216220000000000000" title="国内アニメ" sortOrder="" amazonCategory="DVD" />
+            <category id="91020_216220000000000000" title="海外アニメ" sortOrder="" amazonCategory="DVD" />
+        </category>
+        <category id="91045_216220000000000000" title="音楽" sortOrder="" amazonCategory="DVD" >
+            <category id="91046_216220000000000000" title="邦楽" sortOrder="" amazonCategory="DVD" />
+            <category id="91047_216220000000000000" title="洋楽" sortOrder="" amazonCategory="DVD" />
+            <category id="91050_216220000000000000" title="その他音楽" sortOrder="" amazonCategory="DVD" />
+        </category>
+        <category id="91009_216220000000000000" title="TVドラマ" sortOrder="" amazonCategory="DVD" >
+            <category id="91011_216220000000000000" title="アメリカ-ヨーロッパ" sortOrder="" amazonCategory="DVD" />
+            <category id="91010_216220000000000000" title="国内TVドラマ" sortOrder="" amazonCategory="DVD" />
+            <category id="91012_216220000000000000" title="韓国-アジア" sortOrder="" amazonCategory="DVD" />
+            <category id="91013_216220000000000000" title="その他TVドラマ" sortOrder="" amazonCategory="DVD" />
+        </category>
+        <category id="91026_216220000000000000" title="キッズ・ファミリー向け" sortOrder="" amazonCategory="DVD" >
+            <category id="91027_216220000000000000" title="キッズ-ファミリーアニメ" sortOrder="" amazonCategory="DVD" />
+            <category id="91031_216220000000000000" title="キッズ・ファミリー映画" sortOrder="" amazonCategory="DVD" />
+            <category id="91040_216220000000000000" title="特撮ヒーロー" sortOrder="" amazonCategory="DVD" />
+            <category id="91035_216220000000000000" title="キッズ・ファミリー-バラエティ" sortOrder="" amazonCategory="DVD" />
+            <category id="91039_216220000000000000" title="その他キッズ・ファミリー-バラエティ" sortOrder="" amazonCategory="DVD" />
+        </category>
+        <category id="91070_216220000000000000" title="バラエティ-お笑い" sortOrder="" amazonCategory="DVD" >
+            <category id="91056_216220000000000000" title="バラエティ" sortOrder="" amazonCategory="DVD" />
+            <category id="91053_216220000000000000" title="お笑い" sortOrder="" amazonCategory="DVD" />
+            <category id="91060_216220000000000000" title="その他バラエティ・お笑い" sortOrder="" amazonCategory="DVD" />
+            <category id="91059_216220000000000000" title="怪談・ホラー" sortOrder="" amazonCategory="DVD" />
+        </category>
+    </category>
+</root>

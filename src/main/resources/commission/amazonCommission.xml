@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amazonCommission>
+    <sales>
+        <rate category="Book">15</rate>
+        <rate category="Photography">8</rate>
+        <rate category="Home Improvement">15</rate>
+        <rate category="Health and Beauty">10</rate>
+        <rate category="Sports">10</rate>
+        <rate category="Kitchen">15</rate>
+        <rate category="Watch">15</rate>
+        <rate category="Jewelry">15</rate>
+        <rate category="Video Games">15</rate>
+        <rate category="Software">15</rate>
+        <rate category="Automotive">10</rate>
+        <rate category="Toy">10</rate>
+        <rate category="PCHardware">8</rate>
+        <rate category="Pet Products">15</rate>
+        <rate category="Hobbies">10</rate>
+        <rate category="Music">15</rate>
+        <rate category="Major Appliances">8</rate>
+        <rate category="Electronics">8</rate>
+        <rate category="Office Product">15</rate>
+        <rate category="Apparel">15</rate>
+        <rate category="Musical Instruments">8</rate>
+        <rate category="Grocery">10</rate>
+        <rate category="OTHER">15</rate>
+    </sales>
+    <fba>
+        <storageCostBase>8.126</storageCostBase>
+        <storageDuration>1</storageDuration>
+        <mediaCategory>
+            <category>Music</category>
+            <category>Software</category>
+            <category>Book</category>
+            <category>Video Games</category>
+            <category>CD</category>
+            <category>DVD</category>
+        </mediaCategory>
+        <shippingCommissions>
+            <expensivePriceThreshold>45000</expensivePriceThreshold>
+            <smallThreshold length="25" width="18" height="2" weight="250" />
+            <mediumThreshold length="45" width="35" height="20" weight="9000" />
+        </shippingCommissions>
+        <deliveryCommissions>
+            <commission id="media.small" shipping="86" weight="56" />
+            <commission id="media.medium" shipping="86" weight="78" weightExtra="6" />
+            <commission id="noMedia.small" shipping="76" weight="163" />
+            <commission id="noMedia.medium" shipping="98" weight="221" weightExtra="6" />
+            <commission id="large.div1" shipping="515" weight="0" />
+            <commission id="large.div2" shipping="555" weight="0" />
+            <commission id="large.div3" shipping="590" weight="0" />
+            <commission id="expensive" shipping="0" weight="0" />
+        </deliveryCommissions>
+    </fba>
+</amazonCommission>
