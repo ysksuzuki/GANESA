@@ -1,6 +1,6 @@
 # GANESA
 
-Calcutates the price gap between Amazon and other online shops 
+Calcurates the price gap between Amazon and other online shops 
 
 ## Build
 
