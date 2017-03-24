@@ -1,6 +1,6 @@
 # GANESA
 
-amazonとのネットショップの価格差をカテゴリ別に自動検索するツールです。
+Calcurates the price gap between Amazon and other online shops 
 
 ## Build
 
